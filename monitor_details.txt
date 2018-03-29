@@ -1,0 +1,56 @@
+
+links to monitor use:
+https://www.google.com/shopping/product/753304583764570618?q=hp+monitors&prds=hsec:specs,paur:ClkAsKraX5iIyDH9P0wx8xtJFyT1YhVP-CXW6SMXXX_HsgwlTaesl0VfFFJuXTvRls6pYKWhKGkwFe4YzP6iMJ8sfssZUTc4bb1Jhte67tHuItKSjkItqHsV1xIZAFPVH731WSaMKtMiYRSk0pQgEFO3u2P4SQ&sa=X&ved=0ahUKEwj53vrpqZLaAhVI3GMKHVDeB5YQ4SsIGCgG
+			$129
+			
+			mouse and keyboard link:
+https://www.walmart.com/ip/Rainbow-Gaming-Keyboard-and-Mouse-Set-LED-Multi-Colored-Changing-Backlight-Mouse/441646063?wmlspartner=wlpa&selectedSellerId=14240&adid=22222222227000000000&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=pla-51320962143&wl5=9033810&wl6=&wl7=&wl8=&wl9=pla&wl10=118786796&wl11=online&wl12=441646063&wl13=&veh=sem
+			$21.99
+		
+		
+			Monitor specs
+			
+	Display: TypeLED-backlit LCD monitor / TFT active matrix
+	
+	Diagonal: Size27"
+	
+	Viewable: Size27"
+	
+	Panel: TypeIPS
+
+
+			60-inch teaching monitor
+http://tabler.tv/store/touchscreen/multi-touch-monitor-60-for-samsung-un60ku6300-tv-4k
+
+		Full touch-screen
+		
+		slim surface
+		
+		in 4k 
+		
+		120HZ
+		
+		fast 2D / 3D acceleration for digital content
+		
+		Touch Parameters:
+
+Detectable TouchPoints:
+6 touch points
+12 touch points
+50 touch points
+
+Touch Object: 	Any object with diameter larger than 0.079 inch (2 mm)
+
+Touch Precision: 	±0.079 inch (±2 mm)
+
+Touch Response Time: 	7~12ms
+
+Required Touch Strength: 	Zero pressure required
+
+Touch Resolution: 	32768 x 32768
+
+Touch Durability: 	Unlimited
+
+Touch Protocol: 	Windows Native Touch (Windows 7&8); TUIO (Mac)
+
+Operating System: 	Windows XP / Vista / 7 / 8, Mac OS X, Linux, Android (iStick only)
