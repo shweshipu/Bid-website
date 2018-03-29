@@ -1,0 +1,29 @@
+Computer parts:
+	Key specs
+	
+    Hard Drive Capacity:
+    1000 gigabytes
+   
+    Graphics:
+    Intel HD Graphics 630
+    
+    System Memory (RAM):
+    16 gigabytes
+    
+    Processor Speed (Base):
+    3.6 gigahertz
+   
+    Processor Model:
+    Intel 7th Generation Core i7
+    
+    Operating System:
+    Windows 10
+    
+		Additional specs
+    
+ DVD/CD burner
+ 1TB hard drive + Intel Optane Memory
+ 1 USB Type-C port
+ 5 USB 3.0 ports maximize the latest high-speed devices
+ Bluetooth 4.2 interface syncs with compatible devices
+     
