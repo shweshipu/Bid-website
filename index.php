@@ -1,22 +1,13 @@
-<link href="css/sjh.css" rel="stylesheet">
 
-	<html><head><title>T A S</title>
+	<html>
+	<link href="css/sjh.css" rel="stylesheet">
+
+		<head><title>T A S</title>
 	
-	<img src="logo.png" alt="Mountain View">
+	<img src="logo.png"alt="Mountain View" height="42" width="42">
+	Tech Association of Space
 	
 	
-	<style>
-		#menu {
-			position: absolute;
-			left: 50px;
-			top: 0px;
-		}
-		#contents{
-			position: absolute;
-			left: 100px;
-			top: 50px;
-		}
-	</style>
 
 </head>
 <body>
