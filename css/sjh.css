@@ -195,6 +195,19 @@ background-color: #ffc200;
 [class*="col-"] {
     width: 100%;
 }
+
+h1,h2,h3,h4,h5,h6{
+font-weight:700;
+margin:0 0 35px;
+letter-spacing:1px;
+text-transform:uppercase
+}
+
+
+
+
+
+
 @media only screen and (min-width: 600px) {
     /* For tablets: */
     .col-m-1 {width: 8.33%;}
