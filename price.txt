@@ -1,0 +1,11 @@
+total price for 20 computers
+
+ using pre builts
+ 
+		4599.99 * 20 + 5229.12 + 578 * 19
+			= $108,210.92
+			
+ using custom builds
+ 
+		5660.46 * 20 + 5229.12 + 578 * 19
+			= $129,420.319
