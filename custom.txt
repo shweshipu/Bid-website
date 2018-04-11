@@ -1,0 +1,13 @@
+Custom Made		
+Parts			Brand								Newegg price
+Motherboard		ASUS Prime x399						$331.01
+CPU				AMD Threadripper 1950x				$948.63
+CPU Cooler		NZXT KRAKEN X62						$159.99
+GPU				ASUS Radeon RX VEGA 64				$859.99
+RAM				G.Skill Trident (8 * 16) DDR4-3333 	$1,774.99
+Storage			Samsung 960 EVO 1TB					$447.00
+Storage			Seagate BarraCuda Pro 10TB(X2)		$699.96
+Case			Corsair 750D ATX Full Tower Case 	$149.99
+Powersupply		Seasonic 850W 80+ Platinum 			$139.90
+Software		Windows 10 Pro						$149.00
+Total Price											$5,660.46

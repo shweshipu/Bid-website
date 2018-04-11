@@ -12,9 +12,9 @@
 </head>
 <body>
 	<div id = "menu">
-			<a href = "index.php?v=0"  >computer</a>&nbsp; 
-			<a href = "index.php?v=1"  >computer parts</a>&nbsp; 
-			<a href = "index.php?v=2"  >monitor details</a>&nbsp; 
+			<a href = "index.php?v=1"  >prebuilt</a>&nbsp; 
+			<a href = "index.php?v=2"  >custom</a>&nbsp; 
+			<a href = "index.php?v=0"  >extra</a>&nbsp; 
 			<hr />
 		</div>
 
@@ -28,16 +28,16 @@
 				}
 				
 			if ($thepost == -1) {
-				echo "html append broke";
+				echo "welcome to the bid presentation";
 			}
 			if ($thepost == 0) {
-				require "computer.txt";
+				require "extra.txt";
 			}
 			if ($thepost == 1) {
-				require "computerpart.txt";
+				require "prebuilt.txt";
 			}
 			if ($thepost == 2) {
-				require "monitor_details.txt";
+				require "custom.txt";
 			}
 			?>
 		</pre>

@@ -1,0 +1,8 @@
+Monitors		HP EliteDisplay E273m 27-inch Monitor												$289.00
+switch			HPE OfficeConnect 1820 switch														$272.99
+Firewall		CISCO ASA 5506-X with FirePOWER Services, 8 GE Data, 1 GE Mgmt, AC, 3 DES / AES		$393.47
+TV				TablerTV 84" M3 for LG 84UB9800 4K TV												$3,769.00
+Keyboard/MIce	Rainbow Gaming Keyboard and Mouse Set LED Multi-Colored Changing Backlight Mouse	$21.99
+Cat 5 			cable	Tripp Lite Cat 5/Cat5e Bulk Solid-Core PVC Cable, 350 MHz, Blue, 1000 ft.	$91.68
+router			NETGEAR - AC1750 Dual-Band Wi-Fi Router - Black										$101.99
+Total Price																							$4,940.12

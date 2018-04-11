@@ -1,0 +1,12 @@
+Parts	Name
+Motherboard			dell cube
+CPU					Intel Core i9700X-series
+CPU Cooler			Liquid CPU Cooler
+GPU					NVIDIA GeForce GTX 1080 Ti
+RAM					64 GB DDR4
+Storage				256GB M.2 NVMe SSD 
+Storage	 			4 TB HDD
+Case				mxnet Caffe PyTorch Torch7 Tensorflow Docker SciKit 
+Powersupply			1000W
+Software			Linux
+Total Price			$4,599.99
