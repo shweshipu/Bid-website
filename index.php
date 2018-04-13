@@ -57,6 +57,7 @@
 			}
 			if ($thepost == 6) {
 				require "spreadsheet/Sheet1.html";
+				echo "<a href = \"https://docs.google.com/spreadsheets/d/1seClcHbb_Nnny084qBjNJx28Q0xrCUj7fa0hdJNHcyk/edit#gid=0\"  >link to spreadsheet</a>";
 			}
 			?>
 		</pre>
