@@ -12,10 +12,15 @@
 </head>
 <body>
 	<div id = "menu">
+			<a href = "index.php?v=5"  >about</a>&nbsp; 
+			<a href = "index.php?v=6"  >spreadsheet</a>&nbsp; 
+			<!--
 			<a href = "index.php?v=1"  >prebuilt</a>&nbsp; 
-			<a href = "index.php?v=2"  >custom</a>&nbsp; 
+			<a href = "index.php?v=2"  >custom</a>&nbsp;
+			<a href = "index.php?v=4"  >server</a>&nbsp;  
 			<a href = "index.php?v=0"  >extra</a>&nbsp; 
-			<a href = "index.php?v=4"  >server</a>&nbsp; 
+			-->
+			
 			<a href = "index.php?v=3"  >price</a>&nbsp; 
 			<hr />
 		</div>
@@ -46,6 +51,12 @@
 			}
 			if ($thepost == 4) {
 				require "server.txt";
+			}
+			if ($thepost == 5) {
+				require "about.txt";
+			}
+			if ($thepost == 6) {
+				require "spreadsheet/Sheet1.html";
 			}
 			?>
 		</pre>
