@@ -15,6 +15,7 @@
 			<a href = "index.php?v=1"  >prebuilt</a>&nbsp; 
 			<a href = "index.php?v=2"  >custom</a>&nbsp; 
 			<a href = "index.php?v=0"  >extra</a>&nbsp; 
+			<a href = "index.php?v=4"  >server</a>&nbsp; 
 			<a href = "index.php?v=3"  >price</a>&nbsp; 
 			<hr />
 		</div>
@@ -42,6 +43,9 @@
 			}
 			if ($thepost == 3) {
 				require "price.txt";
+			}
+			if ($thepost == 4) {
+				require "server.txt";
 			}
 			?>
 		</pre>
